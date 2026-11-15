@@ -6,7 +6,7 @@ Before that I led AI products for the Brazilian public sector, from citizen serv
 
 - Agent orchestration with LangGraph, MCP and A2A.
 - LLM infrastructure with FastAPI and GPU-hosted models.
-- Data engineering, fraud detection and domain ontologies.
+- Data engineering on Databricks, entity extraction, fraud detection and domain ontologies.
 - Product development with Python, TypeScript and React.
 
 ## Selected projects
@@ -16,6 +16,10 @@ Before that I led AI products for the Brazilian public sector, from citizen serv
 - [e2e-langgraph-mcp-example](https://github.com/jxnxts/e2e-langgraph-mcp-example): LangGraph coordinating two isolated e2e MCP browser sessions, with failure and cancellation cleanup.
 - [fastmcp-skill](https://github.com/jxnxts/fastmcp-skill): Claude Code skill for building MCP servers with FastMCP v3.
 - [ui-moodboard-agent](https://github.com/jxnxts/ui-moodboard-agent): agent that turns a design brief into a curated HTML moodboard with cited references.
+
+## Talks
+
+- **Data + AI World Tour São Paulo 2026 (Databricks):** presented the BNBO ontology use case for SENASP/MJSP. It turns the free-text narratives of police reports from across Brazil into a graph on Databricks, extracting entities such as PIX keys, phone numbers and online profiles, so that scam campaigns spread across states and months become visible.
 
 ## Open source contributions
 
