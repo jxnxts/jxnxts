@@ -24,6 +24,10 @@ Before that I led AI products for the Brazilian public sector, from citizen serv
 ## Open source contributions
 
 - [e2e #1761](https://github.com/e2e-inc/e2e/pull/1761): fixed ACP step cancellation in the e2e testing framework.
+- [e2e #1766](https://github.com/e2e-inc/e2e/pull/1766): stopped cancelled ACP steps from waiting on the opening screen.
+- [e2e #1814](https://github.com/e2e-inc/e2e/pull/1814): removed repeated array copying when the Markdown reporter groups results by file.
+- [e2e #1764](https://github.com/e2e-inc/e2e/pull/1764): listed my LangGraph example of isolated e2e MCP browser sessions in the community examples catalog.
+- [e2e #1827](https://github.com/e2e-inc/e2e/pull/1827): listed my experimental MCP Streamable HTTP companion for e2e in the community examples catalog.
 - [Orca #40950](https://github.com/stablyai/orca/pull/40950): merged fix in Orca, the coding-agent fleet runner.
 - [MCP Brasil #33](https://github.com/Mcp-Brasil/mcp-brasil/pull/33): contribution to the MCP server for Brazilian public data.
 
